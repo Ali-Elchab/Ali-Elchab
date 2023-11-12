@@ -1,5 +1,4 @@
 <!-- Intro section -->
-![Banner Photo](/Group 3505 (1).jpg)
 <img  src="/Group 3505 (1).jpg" alt="" />
 
 <!-- About me details -->
