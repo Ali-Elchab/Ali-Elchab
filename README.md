@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Ali 
 ####_ Aspiring Software Developer_
-![Aspiring Software Developer](/giphy.gif)
+
+<div style="width:300; height:300">![Aspiring Software Developer](/giphy.gif)</div>
 
 I am a highly motivated software developer, driven by a passion to delve deeper into the ever-evolving tech world each day.
 
