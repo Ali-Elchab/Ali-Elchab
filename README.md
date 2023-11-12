@@ -5,7 +5,7 @@
 ## About me
 
 <p>
-    <img align="right" width="300" src="/giphy.gif" alt="Coding gif" />
+    <img align="right" width="250" src="/giphy.gif" alt="Coding gif" />
     👂 &emsp; Always up for a chat, especially when it's about coding!<br />
     ❤️ &emsp;  Coding enthusiast who enjoys building programs. <br />
     💬 &emsp; Feel free to ask me anything; I'm all ears!
