@@ -35,3 +35,5 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-elchab&show_icons=true)  
