@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ali 
 #### Aspiring Software Developer
-![Aspiring Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Aspiring Software Developer])
 
 I am a highly motivated software developer, driven by a passion to delve deeper into the ever-evolving tech world each day.
 
