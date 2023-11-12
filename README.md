@@ -6,9 +6,9 @@
 
 <p>
     <img align="right" width="250" src="/giphy.gif" alt="Coding gif" />
-    ✌️ &emsp; Will listen if your talking about technology<br />
-    ❤️ &emsp; Enjoy coding and building programs <br />
-    💬 &emsp; Ask me about anything
+    👂 &emsp; Always up for a chat, especially when it's about coding!<br />
+    ❤️ &emsp;  Coding enthusiast who enjoys building programs. <br />
+    💬 &emsp; Feel free to ask me anything; I'm all ears!
 </p>
 
 <!-- Use To Code section -->
