@@ -1,11 +1,11 @@
 <!-- Intro section -->
-<h3 align="center" color="blue">
-    <samp>&gt; Hey!, I'm <b>Ali</b></samp>
+<h3 align="center" >
+    <samp color="blue">&gt; Hey!, I'm <b>Ali</b></samp>
 </h3>
 
 <!-- About me section -->
 <p align="center">
-    I am a full stack web application developer from Lebanon.
+    _ Aspiring Software Developer_
 </p>
 
 <!-- Social media badges -->
