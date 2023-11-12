@@ -11,7 +11,6 @@
     💬 &emsp; Feel free to ask me anything; I'm all ears!
 </p>
 <!-- Use To Code section -->
-## Use To Code
 
 ### Languages
 <p>
