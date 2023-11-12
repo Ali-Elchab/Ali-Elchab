@@ -5,10 +5,9 @@
 ## About me
 
 <p>
-    <img align="right" width="350" src="/giphy.gif" alt="Coding gif" />
-    ✌️ &emsp; Enjoy doing programming and sharing knowledge<br />
-    ❤️ &emsp; Love writing code and learning new features<br />
-    📧 &emsp; Reach me anytime: chahinesquare@hotmail.com<br />
+    <img align="right" width="250" src="/giphy.gif" alt="Coding gif" />
+    ✌️ &emsp; Will listen if your talking about technology<br />
+    ❤️ &emsp; Enjoy coding and building programs <br />
     💬 &emsp; Ask me about anything
 </p>
 
