@@ -1,5 +1,5 @@
 <!-- Intro section -->
-<img  src="/banner (3).jpg" alt="" />
+<img  src="/banner (4).jpg" alt="" />
 
 <!-- About me details -->
 ## About me
