@@ -1,6 +1,6 @@
 <!-- Intro section -->
-<h3 align="center">
-    <samp>&gt; Hey There!, I am <b>Chahine Chahine</b></samp>
+<h3 align="center" color="blue">
+    <samp>&gt; Hey!, I'm <b>Ali</b></samp>
 </h3>
 
 <!-- About me section -->
