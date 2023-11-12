@@ -31,4 +31,3 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Elchab&show_icons=true)  
