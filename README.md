@@ -5,7 +5,7 @@
 ## About me
 
 <p>
-    <img align="right" width="250" src="/giphy.gif" alt="Coding gif" />
+    <img align="right" width="350" src="/giphy.gif" alt="Coding gif" />
     👂 &emsp; Always up for a chat, especially when it's about coding!<br />
     ❤️ &emsp;  Coding enthusiast who enjoys building programs. <br />
     💬 &emsp; Feel free to ask me anything; I'm all ears!
@@ -22,13 +22,12 @@
 </p>
 
 ### Frameworks
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/EJS-3776AB?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
 
