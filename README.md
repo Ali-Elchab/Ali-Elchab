@@ -1,22 +1,5 @@
 <!-- Intro section -->
-<h3 align="center" >
-    <samp color="blue">&gt; Hey!, I'm <b>Ali</b></samp>
-</h3>
-
-<!-- About me section -->
-<p align="center">
-    _ Aspiring Software Developer_
-</p>
-
-<!-- Social media badges -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/chahine-chahine-5ba191276">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/chahinechahine1?igshid=NTc4MTIwNjQ2YQ==">
-        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-</p>
+![Banner Photo](/Group 3505 (1).jpg)
 
 <!-- About me details -->
 ## About me
