@@ -1,16 +1,13 @@
- ### Hi there 👋<Ali Elchab/
+### Hi there 👋, I'm Ali 
+#### Aspiring Software Developer
+![Aspiring Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Ali-Elchab/Ali-Elchab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated software developer, driven by a passion to delve deeper into the ever-evolving tech world each day.
 
-Here are some ideas to get you started:
+Skills: NODEJS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
