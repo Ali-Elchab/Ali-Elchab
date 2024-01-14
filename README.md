@@ -1,5 +1,5 @@
 <!-- Intro section -->
-<img  src="/Group 12579 (2).png" alt="" />
+<img  src="/banner.png" alt="" />
 
 <!-- About me details -->
 ## About me
