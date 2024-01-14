@@ -24,7 +24,7 @@
 
 </p>
 
-### Frameworks
+### Frameworks And Libraries
 <p>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&labelColor=black" alt="Laravel" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black" alt="React" />
