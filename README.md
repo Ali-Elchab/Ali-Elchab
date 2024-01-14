@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&labelColor=black" alt="Laravel" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" alt="Node.js" /><br>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=black" alt="Express" />
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&labelColor=black" alt="Electron" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge" alt="Bootstrap" />
