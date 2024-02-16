@@ -27,7 +27,7 @@
 
 ### Frameworks And Libraries
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;     
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;     
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
