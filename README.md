@@ -10,8 +10,6 @@
 💬 &emsp; Feel free to ask me anything; I'm all ears!  
 📫 &emsp; How to reach me: &emsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-elchab/)
-[![Phone](https://img.shields.io/badge/-Call%20Me-blue?style=flat&logo=phone&logoColor=white)](callto:+1234567890)
-
 
 ### Languages
 
