@@ -3,16 +3,15 @@
 <!-- About me details -->
 ## About me
 
-<div>
-    <img align="right" width="350" src="/giphy.gif" alt="Coding gif" /><br/>
-    👂 &emsp; Always up for a chat, especially when it's about coding!<br />
-    💻 &emsp; Coding enthusiast who enjoys building programs. <br />
-    💬 &emsp; Feel free to ask me anything; I'm all ears!<br />
-    📫 &emsp; How to reach me: &emsp;
-    <a href=https://www.linkedin.com/in/ali-elchab/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
+<img align="right" width="350" src="/giphy.gif" alt="Coding gif" />
+
+👂 &emsp; Always up for a chat, especially when it's about coding!  
+💻 &emsp; Coding enthusiast who enjoys building programs.  
+💬 &emsp; Feel free to ask me anything; I'm all ears!  
+📫 &emsp; How to reach me: &emsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-elchab/)
+[![Phone](https://img.shields.io/badge/-Call%20Me-blue?style=flat&logo=phone&logoColor=white)](callto:+1234567890)
+
 
 ### Languages
 
