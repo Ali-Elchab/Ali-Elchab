@@ -1,4 +1,4 @@
-<img src="/banner.jpg" alt="Ali Elchab Banner" />
+<img src="/banner2.jpg" alt="Ali Elchab Banner" />
 
 <h2>Hey, I'm Ali 👋</h2>
 
