@@ -41,7 +41,4 @@ Right now, I'm focused on building reliable mobile products, clean codebases, an
   <a href="https://www.linkedin.com/in/ali-elchab/">
     <img height="26" src="https://img.shields.io/badge/LinkedIn-Ali%20Elchab-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:alielchab01@gmail.com">
-    <img height="26" src="https://img.shields.io/badge/Email-alielchab01%40gmail.com-red?style=flat&logo=gmail" />
-  </a>
 </p>
